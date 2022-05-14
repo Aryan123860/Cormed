@@ -1,6 +1,6 @@
-# CoMeds
+# CorMed
 
-CoMeds is an e-Commerce Website built to provide a common platform between the medicine, oxygen-cylinders and other medical equipments suppliers and the patients in need.
+CorMed is an e-Commerce Website built to provide a common platform between the medicine, oxygen-cylinders and other medical equipments suppliers and the patients in need.
 
 ## Getting Started
 
@@ -18,13 +18,13 @@ Your machine should have Npm( or Yarn ) and Node.js installed to use it locally.
 
     Go to the forked repo and clone it 👥 to your local machine.
 
-    ` git clone https://github.com/Your_Username/comeds-hf21.git `
+    ` git clone https://github.com/Your_Username/cormed-hf21.git `
     
     This will make a copy of the code to your local machine.
 
- 2. Now move to the `comeds-hf21` directory.
+ 2. Now move to the `cormed-hf21` directory.
 
-    ` cd comeds-hf21 `
+    ` cd cormed-hf21 `
 
  3. Now check the remote of your local code by:
 
@@ -33,25 +33,25 @@ Your machine should have Npm( or Yarn ) and Node.js installed to use it locally.
     The response should look like:
 
     ```
-    origin https://Your_Username/comeds-hf21.git (fetch)
+    origin https://Your_Username/cormed-hf21.git (fetch)
 
-    origin https://Your_Username/comeds-hf21.git (push) 
+    origin https://Your_Username/cormed-hf21.git (push) 
     ```
 
     To add upstream to remote, run: 
 
-     `git remote add upstream https://github.com/arkarn04/comeds-hf21.git`
+     `git remote add upstream https://github.com/Aryan123860/cormed-hf21.git`
 
     Again run `git remote -v`, the rrsponse should look like: 
 
     ```
-    origin https://Your_Username/comeds-hf21.git (fetch)
+    origin https://Your_Username/cormed-hf21.git (fetch)
 
-    origin https://Your_Username/comeds-hf21.git (push)
+    origin https://Your_Username/cormed-hf21.git (push)
       
-    upstream https://github.com/arkarn04/comeds-hf21 (fetch)
+    upstream https://github.com/Aryan123860/cormed-hf21 (fetch)
 
-    upstream https://github.com/arkarn04/comeds-hf21 (push)
+    upstream https://github.com/Aryan123860/cormed-hf21 (push)
     ```
 
  4. Once the remote is set, install all the necessary dependencies by the following comand: 
